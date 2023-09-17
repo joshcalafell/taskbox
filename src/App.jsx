@@ -8,6 +8,7 @@ function App() {
   return (
     <Provider store={store}>
       <InboxScreen />
+      <h4>Demo<</h4>
     </Provider>
   )
 }
